@@ -1,0 +1,19 @@
+{
+  "name": "@idirdev/snaptest",
+  "version": "1.0.0",
+  "description": "Snapshot testing utility for JSON data",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/snaptest.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  }
+}
