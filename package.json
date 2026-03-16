@@ -15,5 +15,9 @@
   },
   "scripts": {
     "test": "node --test tests/"
+  },
+  "homepage": "https://github.com/idirdev/snaptest",
+  "bugs": {
+    "url": "https://github.com/idirdev/snaptest/issues"
   }
 }
